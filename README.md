@@ -24,7 +24,8 @@ Este é um site de venda de TVs desenvolvido com **HTML, CSS e JavaScript**. O o
 Para acessar e explorar o código-fonte, basta clonar o repositório:
 
 ```bash
-git clone [link_do_repositorio]
+gh repo clone yngridAMatos/TVsEveryChannel
+```
 
 ## 👥 Contribuição
 
@@ -34,3 +35,15 @@ Sinta-se à vontade para sugerir melhorias, adicionar novas funcionalidades ou c
 2. Crie uma nova _branch_ para suas alterações:
    ```bash
    git checkout -b minha-melhoria
+
+## 🔧 Como executar o projeto
+
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/yngridAMatos/TVsEveryChannel.git
+   ```
+2. Navegue até o diretório do projeto:
+   ```bash
+   cd TVsEveryChannel
+   ```
+3. Abra o arquivo `index.html` em um navegador para visualizar o site.
