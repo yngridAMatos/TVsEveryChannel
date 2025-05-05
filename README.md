@@ -12,6 +12,8 @@ Este é um site de venda de TVs desenvolvido com **HTML, CSS e JavaScript**. O o
 - **CSS3** - Estilização e design responsivo
 - **JavaScript** - Implementação de funcionalidades (parcialmente concluído)
 
+![imagem do site](https://github.com/yngridAMatos/TVsEveryChannel/blob/1a045f90f68bd2f30d81b654316f5508127ebcf0/Captura%20de%20tela%202025-05-05%20132533.png)
+
 ## 🚀 Funcionalidades previstas
 
 - Exibição de produtos disponíveis para compra
