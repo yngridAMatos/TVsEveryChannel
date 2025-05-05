@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TV's - Every Channel</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header>
+    <img src="./_images/img_4.png" alt="logo">
+    <nav>
+        <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="produtos-tvs.html">TV's</a></li>
+            <li><a href="fale-conosco.html">Fale conosco</a></li>
+            <li><a href="carrinho.html">Carrinho</a></li>
+        </ul>
+    </nav>
+</header>
+<section>
+    <form class="formulario">
+        <h2>Fale Conosco | Formulário de Contato</h2>
+        <div class="form-group">
+            <label for="username">Usuário:</label>
+            <div class="input-group">
+                <input type="text" id="username" placeholder="Usuário">
+            </div>
+        </div>
+        <div class="form-group">
+            <label for="email">E-mail:</label>
+            <input type="email" id="email" placeholder="nome@exemplo.com">
+        </div>
+        <div class="form-group">
+            <label for="comments">Comentários:</label>
+            <textarea id="comments" placeholder="Faça seu comentário aqui"></textarea>
+        </div>
+        <div class="form-group">
+            <label for="tv-select">Selecione a TV:</label>
+            <select id="tv-select">
+                <option value="">Abra para exibir as opções</option>
+                <option value="Roku TV">Roku TV</option>
+                <option value="Samsung TV">Samsung TV</option>
+                <option value="Xiaomi TV">Xiaomi TV</option>
+            </select>
+        </div>
+        <div class="form-group">
+            <input type="checkbox" id="remember-me">
+            <label for="remember-me">Lembre-se de mim</label>
+        </div>
+        <button type="submit">Enviar</button>
+    </form>
+</section>
+<script src="./scripts.js"></script>
+</body>
+</html>
+
